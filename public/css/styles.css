@@ -1,4 +1,5 @@
-*{box-sizing: border-box;}
+@import url(normalize.css);
+@import url(normalizePersonal.css);
 
 body {
     background-color: beige;
